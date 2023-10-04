@@ -34,14 +34,16 @@ const Aanttrax = {
     technologies: {
         frontEnd: {
             js: ["React"],
+            ts: ["Angular"],
             css: ["bootstrap"]
         },
         backEnd: {
-            js: ["node", "express"]
+            js: ["node", "express"],
+            ts: ["node", "express"]
         },
-        databases: ["MySql", "PostgreSQL"]
+        databases: ["MySql", "PostgreSQL", "MongoDB", "FireBase"]
     },
-    architecture: ["Progressive web applications", "Single page applications"],
+    architecture: ["Progressive web applications", "Single page applications", "Microservices"],
     funFact: "There are two ways to write error-free programs; only the third one works"
 };
 ```
