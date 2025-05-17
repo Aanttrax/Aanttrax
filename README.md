@@ -11,7 +11,9 @@
 
 ```bash
 # Who am I?
-I'm a software engineer, currently living in Dubai 🇦🇪 Originally from Bolivia 🇧🇴, passionate about tech, automation, ethical hacking, and Linux. I love using Neovim for code, Kali Linux for security, and tools like Zsh & Tmux for efficiency.
+I'm a software engineer, currently living in Dubai 🇦🇪 Originally from Bolivia 🇧🇴,
+passionate about tech, automation, ethical hacking, and Linux. 
+I love using Neovim for code, Kali Linux for security, and tools like Zsh & Tmux for efficiency.
 Currently exploring Cloud ☁️, AI 🧠, and DevOps ⚙️ practices.
 ```
 
