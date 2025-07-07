@@ -109,7 +109,7 @@ const Aanttrax = {
 
 ## 📊 GitHub Stats
 
-| ![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=aanttrax&layout=compact&hide_border=true&title_color=94e2d5&text_color=cdd6f4&bg_color=1e1e2e&langs_count=10) | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aanttrax&show_icons=true&count_private=true&hide_border=true&title_color=94e2d5&icon_color=cba6f7&text_color=cdd6f4&bg_color=1e1e2e) |
+| ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aanttrax&layout=compact&hide_border=true&title_color=94e2d5&text_color=cdd6f4&bg_color=1e1e2e&langs_count=10) | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aanttrax&show_icons=true&count_private=true&hide_border=true&title_color=94e2d5&icon_color=cba6f7&text_color=cdd6f4&bg_color=1e1e2e) |
 |---|---|
 
 
